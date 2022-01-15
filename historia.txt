@@ -1,5 +1,3 @@
-Archivo de prueba - cambio
+Archivo de prueba
 
-En la prueba de cambio
-
-proceso de cambio
+la prueba de cambio para el checkout
